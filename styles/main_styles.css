@@ -907,6 +907,10 @@ section
 {
 	display: none;
 }
+.fadeIn
+{
+	animation-delay: 1000ms;
+}
 
 /*********************************
 6. Ads
