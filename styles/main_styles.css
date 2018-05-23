@@ -1163,13 +1163,13 @@ section
 8. Ad Extra Large
 *********************************/
 
-.ad_xl
+.avds_xl
 {
 	width: 100%;
 	background: #FFFFFF;
 	z-index: 2;
 }
-.ad_xl_container
+.avds_xl_container
 {
 	width: 100%;
 	height: 345px;
@@ -1178,7 +1178,7 @@ section
 	padding-bottom: 30px;
 	padding-left: 30px;
 }
-.ad_xl_background
+.avds_xl_background
 {
 	position: absolute;
 	top: 0;
@@ -1189,7 +1189,7 @@ section
 	background-size: cover;
 	background-position: center center;
 }
-.ad_xl_content
+.avds_xl_content
 {
 	width: 391px;
 	height: 100%;
@@ -1199,7 +1199,7 @@ section
 	padding-left: 42px;
 	padding-right: 30px;
 }
-.ad_xl_link
+.avds_xl_link
 {
 	margin-top: 18px;
 }
