@@ -246,11 +246,11 @@
 	{
 		display: none;
 	}
-	.ad_xl_container
+	.avds_xl_container
 	{
 		padding: 30px;
 	}
-	.ad_xl_content
+	.avds_xl_content
 	{
 		width: 100%;
 	}
@@ -408,7 +408,7 @@
 
 @media only screen and (max-width: 479px)
 {
-	.ad_xl_content
+	.avds_xl_content
 	{
 		padding: 30px;
 	}
