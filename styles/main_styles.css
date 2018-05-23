@@ -912,13 +912,13 @@ section
 6. Ads
 *********************************/
 
-.ads
+.avds
 {
 	width: 100%;
 	background: #FFFFFF;
 	z-index: 2;
 }
-.ads_container
+.avds_container
 {
 	width: 100%;
 	height: 490px;
@@ -928,13 +928,13 @@ section
 
 /* Ad Small*/
 
-.ad_small
+.avds_small
 {
 	width: calc((100% * 0.391) - 15px);
 	height: 100%;
 	padding: 30px;
 }
-.ad_background
+.avds_background
 {
 	position: absolute;
 	top: 0;
@@ -945,25 +945,25 @@ section
 	background-size: cover;
 	background-position: center center;
 }
-.ad_small_inner
+.avds_small_inner
 {
 	width: 100%;
 	height: 100%;
 	border: solid 2px #FFFFFF;
 }
-.ad_discount_container
+.avds_discount_container
 {
 	position: absolute;
 	right: 36px;
 	bottom: 0;
 }
-.ad_discount_container > div
+.avds_discount_container > div
 {
 	position: relative;
 	width: 100%;
 	height: 100%;
 }
-.ad_discount
+.avds_discount
 {
 	position: absolute;
 	bottom: 71px;
@@ -971,46 +971,46 @@ section
 	width: 152px;
 	text-align: center;
 }
-.ad_discount div:first-child
+.avds_discount div:first-child
 {
 	font-size: 60px;
 	font-weight: 700;
 	color: #1b1b1b;
 	line-height: 0.75;
 }
-.ad_discount div:first-child span
+.avds_discount div:first-child span
 {
 	font-size: 36px;
 	font-weight: 700;
 	vertical-align: super;
 }
-.ad_discount div:last-child
+.avds_discount div:last-child
 {
 	font-size: 14px;
 	font-weight: 400;
 	color: #1b1b1b;
 	margin-top: 1px;
 }
-.ad_small_content
+.avds_small_content
 {
 	max-width: 250px;
 	padding-top: 57px;
 	padding-left: 31px;
 	padding-right: 30px;
 }
-.ad_title
+.avds_title
 {
 	font-size: 48px;
 	font-weight: 600;
 	color: #FFFFFF;
 	line-height: 1.16;
 }
-.ad_link
+.avds_link
 {
 	margin-top: 18px;
 	padding-left: 4px;
 }
-.ad_link a
+.avds_link a
 {
 	position: relative;
 	display: inline-block;
@@ -1018,7 +1018,7 @@ section
 	font-weight: 400;
 	color: #FFFFFF;
 }
-.ad_link a::after
+.avds_link a::after
 {
 	display: block;
 	position: absolute;
@@ -1032,12 +1032,12 @@ section
 
 /* Ad Large */
 
-.ad_large
+.avds_large
 {
 	width: calc((100% * 0.608) - 15px);
 	height: 100%;
 }
-.ad_large_container
+.avds_large_container
 {
 	width: 100%;
 	height: 100%;
@@ -1045,7 +1045,7 @@ section
 	padding-left: 32px;
 	padding-bottom: 44px;
 }
-.ad_large_content
+.avds_large_content
 {
 	max-width: 567px;
 	height: 100%;
@@ -1055,7 +1055,7 @@ section
 	padding-top: 51px;
 	padding-bottom: 30px;
 }
-.ad_text
+.avds_text
 {
 	font-size: 14px;
 	font-weight: 400;
@@ -1064,7 +1064,7 @@ section
 	margin-top: 11px;
 	padding-left: 2px;
 }
-.ad_link_large
+.avds_link_large
 {
 	margin-top: 40px;
 }

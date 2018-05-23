@@ -145,18 +145,18 @@
 		padding-left: 30px;
 		padding-right: 30px;
 	}
-	.ads_container
+	.avds_container
 	{
 		height: auto;
 		padding-left: 30px;
 		padding-right: 30px;
 	}
-	.ad_small
+	.avds_small
 	{
 		width: 100%;
 		height: 490px;
 	}
-	.ad_large
+	.avds_large
 	{
 		width: 100%;
 		height: 490px;
@@ -332,20 +332,20 @@
 	{
 		margin-top: 32px;
 	}
-	.ads_container
+	.avds_container
 	{
 		padding-left: 15px;
 		padding-right: 15px;
 	}
-	.ad_large_content
+	.avds_large_content
 	{
 		max-width: calc(100% - 30px);
 	}
-	.ad_title
+	.avds_title
 	{
 		font-size: 24px;
 	}
-	.ad_text
+	.avds_text
 	{
 		font-size: 13px;
 	}
@@ -353,7 +353,7 @@
 	{
 		width: 100%;
 	}
-	.ad_large_content
+	.avds_large_content
 	{
 		padding-right: 30px;
 	}
